@@ -1,0 +1,2 @@
+# MAVERICK-Website-Utility
+Since I am unable to use python's request library to log in to any of the websites I'll be using Selenium for things like joining classes, checking points, and things related to your profile, as for the other's I'll be using python's request library :D I have ideas to add a bunch of more quality of life features. Some of them will be added and some of them may never be :D
